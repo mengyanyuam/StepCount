@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">计步器</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">简易计步器</string>
+    <string name="trade_count">今天共运动了</string>
+    <string name="trade_tip">步</string>
+    <string name="open">开启计步器</string>
+    <string name="copyrightInfo">Copyright ©2016\n重庆科技学院\nmengyanyuan@outlook.com</string>
+    <string name="notification_text">触摸可打开计步器</string>
+    <string name="notification_title">计步器正在后台运行</string>
+    <string name="open_app">打开计步器</string>
+</resources>
